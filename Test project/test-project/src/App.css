@@ -1,0 +1,19 @@
+.w100 {
+  width: 100%;
+}
+
+.textRight {
+  text-align: right;
+}
+
+.textCenter {
+  text-align: center;
+}
+
+.textLeft {
+  text-align: left;
+}
+
+.cursorPointer {
+  cursor: pointer;
+}

@@ -1,0 +1,30 @@
+.filterContainer {
+    box-shadow: 3px 0px 5px rgb(191 191 191 / 25%);
+}
+.filterHeading {
+    display: flex;
+    align-items: stretch;
+}
+
+.flexGrow1 {
+    flex-grow: 8;
+}
+
+.flexGrow8 {
+    flex-grow: 1;
+}
+
+.filterHeading .MuiPaper-root {
+    box-shadow: none;
+}
+
+.paginationArrow {
+    font-size: 30px !important;
+    color: gray;
+}
+.colorDivFilter {
+    margin-top: 4px;
+    width: 20px;
+    height: 20px;
+    border-radius: 2px;
+}
